@@ -6,11 +6,11 @@
 
 <body> 
 	<h1>PHP Test</h1>
-		<p><b>An Example of PHP in Action</b></p>
+		<p><b>Peeler's Industries rules !</b><ap>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>PHP Information</h2> 
-		<p> <?php phpinfo(); ?> </p> 
-        <h2>TIME FOR A SWIM IN THE OCEAN</h2>
+
+ 
+
 	</body> 
 </html>
